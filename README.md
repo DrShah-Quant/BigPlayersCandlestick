@@ -1,2 +1,2 @@
 # BigPlayersCandlestick
- This Python program profiles volume and transactions along Japanese candlestick  price action for a particular stock based on the tick data
+ This Python program analyzes volume and transaction patterns alongside Japanese candlestick price action for a specific stock, using historical tick data.
