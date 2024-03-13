@@ -43,12 +43,12 @@ Legend:  <br/>
 Above 80 percentile buy/sell volume transactions along with Japanese Candlestics: <br/>
 <img src="https://i.imgur.com/WAnyy00.png" height="80%" width="80%" />
 <br />
- <p align="justify"> The figure above shows periodic time series illustrating the top 20% volume transactions along with Japanese Candlestics. Assuming big players (e.g. fund managers, high net worth individuals, etc) transact in large quantities, from this figure we can know at what price and when the transactions occur. The percentile rank (as found in the legend) indicates us on the reliability of our assumption -- it is more reliable if the percentile rank is above the average of a longer period. The augmented Japanese Candlesticks adds more insights (e.g. big players transactions at open and close, also along the body and tails)  </p>
+ <p align="justify"> The figure above shows periodic time series illustrating the top 20% volume transactions along with Japanese Candlestics. Assuming big players (e.g. fund managers, high net worth individuals, etc) transact in large quantities, from this figure we can know at what price and when the transactions occur. The percentile rank (as found in the legend) indicates us on the reliability of our assumption -- it is more reliable if the percentile rank is above the average of a longer period. The augmented Japanese Candlesticks adds more insights (e.g. big players transactions at open and close, also along the body and tails).  </p>
 <br />
 Number of buy and sell transactions with volume per buy (or sell) transaction along with Japanese Candlestics:  <br/>
 <img src="https://i.imgur.com/a9T1fxF.png" height="80%" width="80%" />
 <br />
- <p align="justify"> The figure above is a time series depicting the volume of buy (or sell) transactions at each price level across the time domain. The visualization highlights the price level that attracts the most buying or selling activity. Corresponding to this information, we are also presented with volume per buy(or sell) transaction at each price level to enable us analyse the magnitude of interest at each price level.    </p>
+ <p align="justify"> The figure above is a time series depicting the volume of buy (or sell) transactions at each price level across the time domain. The visualization highlights the price level that attracts the most buying or selling activity. Corresponding to this information, we are also presented with volume per buy(or sell) transaction at each price level to enable us analyse the magnitude of interest at each price level. The augmented Japanese Candlesticks adds more insights (e.g. overall transactions at open and close, also along the body and tails).    </p>
 <br />
 
 </p>
