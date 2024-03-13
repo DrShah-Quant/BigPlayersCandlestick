@@ -21,7 +21,7 @@ This Python program analyzes volume and transaction patterns alongside Japanese 
 
 <h2>Program walk-through:</h2>
 
-<p align="justify"> The Program walk-through is similar to <a href="https://github.com/DrShah-Quant/PeriodBigPlayers"> PeriodBigPlayers </a> except this version augments Japanese Candlesick for a different analysis dimension. </p>
+<p align="justify"> The Program walk-through is similar to <a href="https://github.com/DrShah-Quant/PeriodBigPlayers"> PeriodBigPlayers </a> except this version augments Japanese Candlesick for a different analysis dimension. Therefore, the documentation remains the same with some additional details added.</p>
 
 <p align="justify"> The example run presented here is from a Jupyter Notebook environment. You can run the file using Ctrl+Enter key presses. Alternatively you can run the python script <i>PeriodBigPlayersCandlesticks.py</i> using command <i>python PeriodBigPlayersCandlesticks.py</i> in a command line if you have python installed properly. The program is depended on a CSV file containing stock transactions raw data. In the example presented below, I have used raw data provided by M+ Securities, a Malaysian stock broker. The raw data contains comma separated values organized into the following colums: "Time","Type","Price","Chg","Vol","Value". "Time" is the time when the transaction occured. "Type" refers to the type of transaction such as buy, close, and open. "Price" refers to the price the share was transacted. "Chg" refers to the difference from the previous price. "Vol" refers to the transaction volume measured in lot sizes (1 lot = 100 shares). And finally "Value" refers to the value of the trasaction (i.e. no of shares x share price). </p>
 
